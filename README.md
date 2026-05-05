@@ -37,6 +37,7 @@ AI Prompt Library — это коллекция production-ready системн�
 
 ## Архитектура проекта
 
+'''
 prompt-library/
 │
 ├── README.md
@@ -63,6 +64,8 @@ prompt-library/
 │   │   │   └── self_presentation_example.md
 │   │
 │   └── resume-analyzer/
+'''
+
 
 ## Добавление нового промпта
  
