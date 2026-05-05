@@ -4,3 +4,6 @@
 ## v0.2
 - Добавлена структура для промпта проекта AI Interview Coach
 
+## v0.3
+- Промпт проекта AI Interview Coach переработан по CLEAR (Task, Context, Input, Output).
+
