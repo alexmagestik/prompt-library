@@ -1,4 +1,4 @@
-# MODE: vacancy_analysis
+# Режим: vacancy_analysis
 
 Режим: Анализ вакансии.
 

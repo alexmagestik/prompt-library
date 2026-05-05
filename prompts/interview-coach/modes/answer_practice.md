@@ -1,4 +1,4 @@
-# MODE: answer_practice
+# Режим: answer_practice
 
 Режим: Проработка ответа кандидата.
 
@@ -32,7 +32,7 @@
 
 ---
 
-# OUTPUT REQUIREMENTS
+# Выход
 
 Структура ответа:
 

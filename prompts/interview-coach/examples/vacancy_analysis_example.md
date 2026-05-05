@@ -1,26 +1,26 @@
-# Example — Vacancy Analysis Mode
+# Пример - Режим анализа вакансии
 
-## Mode
+## Режим
 vacancy_analysis
 
 ---
 
-## RAG Context
+## Контекст из базы знаний (RAG)
 
-- Position: Senior Backend Python Developer
-- Stack: FastAPI, PostgreSQL, Docker
-- Company: Fintech startup
-- Experience: 5+ years
+- Позция: Senior Backend Python Developer
+- Стек технологий: FastAPI, PostgreSQL, Docker
+- Компания: fintech стартап
+- Опыт: 5+ лет
 
 ---
 
-## User Input
+## Пользовательский запрос
 
 Проанализируй вакансию
 
 ---
 
-## Expected Output
+## Ожидаемый выход
 
 ### Ключевые требования
 

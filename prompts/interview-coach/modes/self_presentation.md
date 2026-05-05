@@ -1,4 +1,4 @@
-# MODE: self_presentation
+# Режим: self_presentation
 
 Режим: Формирование самопрезентации.
 

@@ -4,7 +4,7 @@
 AI Interview Coach
 
 ## Версия
-v1.0
+v1.1
 
 ## Владелец
 alexmagestik
@@ -22,16 +22,16 @@ career, interview, hr, coaching, star-method, recruitment, rag, multi-mode
 
 ## Поддерживаемые режимы
 
-vacancy_analysis — анализ вакансии
-questions — генерация вопросов
-answer_practice — проработка ответа по STAR
-self_presentation — формирование самопрезентации
+- vacancy_analysis — анализ вакансии
+- questions — генерация вопросов
+- answer_practice — проработка ответа по STAR
+- self_presentation — формирование самопрезентации
 
 ## Пример входа
 
-### Mode: vacancy_analysis
+### Режим: vacancy_analysis
 
-### RAG:
+### данные из базы знаний (RAG):
 - Вакансия: Senior Backend Python Developer
 - Требования: FastAPI, PostgreSQL, Docker
 - Команда: fintech стартап

@@ -1,26 +1,26 @@
-# Example — Self Presentation Mode
+# Пример - режим самопрезентации
 
-## Mode
+## Режим
 self_presentation
 
 ---
 
-## RAG Context
+## Контекст из базы знаний (RAG)
 
-- Target role: Product Manager
-- Experience: 4 years
-- Domain: B2B SaaS
-- Focus: Growth, Analytics
+- Целевая роль: Product Manager
+- Опыт: 4 года
+- Ключевые области: B2B SaaS
+- Фокус: Аналитика
 
 ---
 
-## User Input
+## Пользовательский запрос
 
 Помоги составить самопрезентацию
 
 ---
 
-## Expected Output
+## Ожидаемый вывод
 
 Я Product Manager с 4 годами опыта в B2B SaaS. 
 Специализируюсь на росте продукта и работе с метриками.

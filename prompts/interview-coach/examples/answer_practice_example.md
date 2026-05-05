@@ -1,26 +1,26 @@
-# Example — Answer Practice Mode
+# Пример - режим улучшения ответа
 
-## Mode
+## Режим
 answer_practice
 
 ---
 
-## RAG Context
+## Контекст из базы знаний (RAG)
 
-- Role: Backend Developer
-- Stack: Python, Django, PostgreSQL
-- Company: E-commerce
+- Роль: Backend Developer
+- Стек технологий: Python, Django, PostgreSQL
+- Компания: E-commerce
 
 ---
 
-## User Input
+## Пользовательский запрос
 
 Я занимался оптимизацией базы данных. 
 Запросы стали быстрее.
 
 ---
 
-## Expected Output
+## Ожидаемый вывод
 
 ### Улучшенная версия (STAR)
 
